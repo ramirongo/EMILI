@@ -1,0 +1,11 @@
+/home/ramiro/Desktop/clion-2019.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" /home/ramiro/Desktop/EMILI_SRC
+-- Compiling with -O3
+-- Automatic updating of commit number disabled
+-- sse compile path disabled
+-- Solution stats disabled
+-- Component based algorithm loading enabled
+-- Experimental library based extension mechanism disabled
+-- Using dynamic linking
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ramiro/Desktop/EMILI_SRC
